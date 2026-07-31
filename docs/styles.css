@@ -38,7 +38,7 @@ body::before{
 
     inset:-10px;
 
-    background-image:url("../docs/images/ripped-notes-rectangle-frame-background_53876-99423.avif");
+    background-image:url("./images/ripped-notes-rectangle-frame-background_53876-99423.avif");
 
     background-size:cover;
 
@@ -171,7 +171,7 @@ body::after{
 
     background:
 
-    rgba(250,247,242,.75);
+    rgba(215, 214, 219, 0.75);
 
 
     backdrop-filter:blur(15px);
